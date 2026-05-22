@@ -1,7 +1,4 @@
 <div align="center">
-  <!-- Dynamic Glowing Cyber Banner -->
-  
-  <br/><br/>
   
   <h1>Hey there! I'm Yash Kushwah 👋</h1>
   
