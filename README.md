@@ -1,6 +1,5 @@
 <div align="center">
   <!-- Dynamic Glowing Cyber Banner -->
-  <img src="./banner.png" alt="Yash Kushwah Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(139, 92, 246, 0.3);" />
   
   <br/><br/>
   
