@@ -1,153 +1,199 @@
 <div align="center">
-  
-  <h1>Hey there! I'm Yash Kushwah 👋</h1>
-  
-  <!-- Sleek Typing Animation Intro -->
-  <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&height=50&lines=AI+Agent+Architect;Full-stack+Software+Engineer;Building+Autonomous+Systems;Local-first+Software+Explorer" alt="Typing SVG" />
-  </h3>
-  
-  <p align="center">
-    <i>"Be the CHANGE."</i>
-  </p>
-  
-  <p align="center" style="max-width: 720px; font-size: 16px; color: #9ca3af; line-height: 1.6;">
-    I am an engineer focused on crafting <b>autonomous multi-agent orchestration systems</b>, private <b>local-first AI tools</b>, and high-performance <b>real-time applications</b>. I love pushing the boundaries of AI deployment both on the edge and in cloud native infrastructure.
-  </p>
-  
-  <!-- Visual badges overview -->
-  <p align="center">
-    <a href="https://github.com/Yashkush06?tab=followers"><img src="https://img.shields.io/github/followers/Yashkush06?label=Followers&style=social" alt="Followers" /></a>
-    &nbsp;
-    <a href="https://github.com/Yashkush06?tab=repositories"><img src="https://img.shields.io/github/directory-file-count/Yashkush06/Yashkush06?label=Repositories&style=social" alt="Repos" /></a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Focus-AI--Agents--%26--Orchestration-8B5CF6?style=flat-square" alt="Focus Badge" />
-  </p>
+
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Yash%20Kushwah&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Building%20Autonomous%20AI%20Systems%20%7C%20B.Tech%20CSE&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%80%9CBe+the+CHANGE.%E2%80%9D;Multi-Agent+Orchestration+%E2%80%A2+Local-first+AI+%E2%80%A2+Real-time+Systems" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Minimal social badges -->
+<a href="https://www.linkedin.com/in/yash-kushwah-b16664380">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/ysh.kushw/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://github.com/Yashkush06">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Yashkush06&style=for-the-badge&color=1f6feb&label=Profile+Views" alt="Profile Views"/>
+
 </div>
 
-<hr style="border: 0; border-top: 1px solid #1f2937; margin: 2rem 0;" />
+<br/>
 
-## 🧠 Highlighted Projects
+<!-- About Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
 
-Below are some of the key platforms and agents I've designed and developed:
+```yaml
+name: Yash Kushwah
+role: AI Systems Engineer & Full-Stack Developer
+education: B.Tech CSE — 2nd Year
+focus: Autonomous Multi-Agent Orchestration Systems
+motto: "Be the CHANGE."
+```
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🧠 <a href="https://github.com/Yashkush06/MemoryLens">MemoryLens</a></h3>
-      <p style="font-size: 14px; color: #9ca3af; line-height: 1.5;">Local-first AI memory assistant. Privately records and transcribes meetings, extracts key tasks/action items, and provides semantically searchable chat history running 100% on-device.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Local--First-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/Whisper-E4405F?style=flat-square" />
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🤖 <a href="https://github.com/Yashkush06/Oliv-Ai">Oliv-Ai</a></h3>
-      <p style="font-size: 14px; color: #9ca3af; line-height: 1.5;">An autonomous desktop control AI agent that interacts with your Windows operating system — click, type, browse web, and execute tasks directly on screen.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI--Agents-7C3AED?style=flat-square" />
-      <img src="https://img.shields.io/badge/PyAutoGUI-009688?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>📈 <a href="https://github.com/Yashkush06/AdSage">AdSage</a></h3>
-      <p style="font-size: 14px; color: #9ca3af; line-height: 1.5;">Next-generation autonomous system for Meta Ads management. Orchestrates multiple AI agents to scan performance metrics, find anomalies, and dynamically allocate ad spend.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI--Orchestration-FF5722?style=flat-square" />
-      <img src="https://img.shields.io/badge/Meta--API-0668E1?style=flat-square&logo=meta&logoColor=white" />
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🚀 <a href="https://github.com/Yashkush06/Procovate">Procovate</a></h3>
-      <p style="font-size: 14px; color: #9ca3af; line-height: 1.5;">AI-powered recommendation & collaboration platform for tech projects. Offers smart semantic search, learning suggestions, and a hub for developers to build together.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLMs-009688?style=flat-square" />
-      <img src="https://img.shields.io/badge/NLP-4CAF50?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🏫 <a href="https://github.com/Yashkush06/OnCampus">OnCampus</a></h3>
-      <p style="font-size: 14px; color: #9ca3af; line-height: 1.5;">A high-performance real-time social network platform specifically tailored for college and university campuses to communicate, share news, and connect.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Real--Time-43A047?style=flat-square" />
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🎨 <a href="https://github.com/Yashkush06/ToDo-Rainmeter">ToDo-Rainmeter</a></h3>
-      <p style="font-size: 14px; color: #9ca3af; line-height: 1.5;">A highly optimized, clean, and aesthetic To-Do list widget skin for Windows Rainmeter customization, with custom Lua styling and state management.</p>
-      <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rainmeter-4F5D75?style=flat-square" />
-      <img src="https://img.shields.io/badge/UI--UX-E040FB?style=flat-square" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="120" />
 
-<hr style="border: 0; border-top: 1px solid #1f2937; margin: 2rem 0;" />
+- 🧠 Designing **multi-agent AI systems** that autonomously orchestrate complex workflows  
+- 🔒 Building **local-first, privacy-preserving** AI tools that run 100% on-device  
+- ⚡ Engineering **high-performance real-time applications** at scale  
+- 🌐 Bridging the gap between **edge AI deployment** and **cloud-native infrastructure**  
+- 🎯 Currently exploring advanced **LLM integration patterns** and **agentic architectures**
 
-## 🛠️ Tech Stack & Toolbox
+<br clear="right"/>
 
-### 💻 Languages & Core Runtimes
-<p align="left">
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" /></a>
-</p>
+---
 
-### 🤖 AI Orchestration, Agents & LLMs
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/OpenAI--API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Whisper--AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper AI" />
-  <img src="https://img.shields.io/badge/Vector--Search-10B981?style=for-the-badge" alt="Vector DBs" />
-  <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=for-the-badge" alt="Multi Agent Frameworks" />
-</p>
-
-### 🌐 Web Frameworks & Databases
-<p align="left">
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="https://socket.io/"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-</p>
-
-<hr style="border: 0; border-top: 1px solid #1f2937; margin: 2rem 0;" />
-
-## 📊 Git Statistics
+<!-- Tech Stack -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yashkush06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's GitHub Stats" style="max-width: 100%; border-radius: 8px;" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkush06&layout=compact&theme=tokyonight&hide_border=true" alt="Yash's Top Languages" style="max-width: 100%; border-radius: 8px;" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding-top: 15px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashkush06&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" style="width: 100%; max-width: 820px; border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+
+#### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+#### Frameworks & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 </div>
 
-<hr style="border: 0; border-top: 1px solid #1f2937; margin: 2rem 0;" />
+---
 
-## 🤝 Let's Connect!
+<!-- Featured Projects -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
 
-I'm always open to discussing AI agent design patterns, local LLM integrations, full-stack systems engineering, and interesting open-source initiatives. Let's build the future!
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yash-kushwah-b16664380" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ysh.kushw/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🧠 MemoryLens](https://github.com/Yashkush06/MemoryLens)
+**Local-first AI Memory Assistant**  
+Privately records & transcribes meetings, extracts key tasks, and provides semantically searchable chat history — runs **100% on-device**.
+
+`Python` `Whisper` `NLP` `Privacy-First`
+
+</td>
+<td width="50%" valign="top">
+
+### [🤖 Oliv-Ai](https://github.com/Yashkush06/Oliv-Ai)
+**Autonomous Desktop Control Agent**  
+AI agent that interacts with your Windows OS — clicks, types, browses web, and executes tasks directly on screen.
+
+`Python` `Computer Vision` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [📈 AdSage](https://github.com/Yashkush06/AdSage)
+**Multi-Agent Meta Ads Manager**  
+Orchestrates AI agents to scan performance metrics, detect anomalies, and dynamically allocate ad spend autonomously.
+
+`TypeScript` `Multi-Agent` `Analytics` ⭐1
+
+</td>
+<td width="50%" valign="top">
+
+### [🚀 Procovate](https://github.com/Yashkush06/Procovate)
+**AI-Powered Project Collaboration**  
+Smart semantic search, learning suggestions, and a hub for developers to discover and build projects together.
+
+`TypeScript` `NLP` `LLMs` `Community`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🏫 OnCampus](https://github.com/Yashkush06/OnCampus)
+**Real-time Campus Social Network**  
+High-performance social platform for colleges — communicate, share news, and connect in real time.
+
+`TypeScript` `Real-time` `WebSocket`
+
+</td>
+<td width="50%" valign="top">
+
+### [🔬 MemoryLensAR](https://github.com/Yashkush06/MemoryLensAR)
+**AR Face Recognition Assistant**  
+Augmented reality assistant designed to help dementia patients recognize faces and recall memories.
+
+`Python` `AR` `Computer Vision` `Healthcare`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashkush06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Yashkush06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkush06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashkush06&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" width="95%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashkush06/Yashkush06/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashkush06/Yashkush06/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Yashkush06/Yashkush06/output/github-snake-dark.svg" width="95%" />
+  </picture>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+
+<br/>
+
+*"Be the CHANGE."*
+
+<sub>💡 Open to collaborations on AI agent systems, local LLM integrations, and interesting open-source initiatives.</sub>
+
+</div>
