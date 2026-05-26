@@ -151,32 +151,8 @@ Augmented reality assistant designed to help dementia patients recognize faces a
 
 </div>
 
----
 
-<!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/Yashkush06">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yashkush06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Yashkush06">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Yashkush06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</a>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yashkush06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashkush06&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" width="95%" alt="Contribution Graph" />
-
-</div>
-
----
 
 <!-- Snake Animation -->
 <div align="center">
