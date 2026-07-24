@@ -154,6 +154,21 @@ Augmented reality assistant designed to help dementia patients recognize faces a
 
 
 
+<!-- Animated terminal art -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Computer.png" alt="Computer" width="28" /> &nbsp;Terminal View
+
+<div align="center">
+
+<img src="./contrib-heatmap.svg" width="860" alt="Animated contribution heatmap" />
+
+<br />
+
+<img src="./info-card.svg" width="480" alt="Animated terminal-style profile card" />
+
+</div>
+
+> The contribution graph is generated from GitHub's public calendar and refreshed daily by GitHub Actions.
+
 <!-- Snake Animation -->
 <div align="center">
   <picture>
