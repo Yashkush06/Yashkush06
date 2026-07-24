@@ -27,27 +27,6 @@
 
 <br/>
 
----
-
-<!-- Live Profile Console -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Computer.png" alt="Computer" width="28" /> &nbsp;Live Profile Console
-
-<div align="center">
-
-<img src="./info-card.svg" width="480" alt="Animated terminal-style profile card" />
-
-<br/><br/>
-
-<img src="./contrib-heatmap.svg" width="95%" alt="Animated contribution heatmap" />
-
-</div>
-
-<p align="center">
-  <sub>Contribution graph refreshes daily from GitHub Actions.</sub>
-</p>
-
----
-
 <!-- About Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
 
