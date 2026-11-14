@@ -154,7 +154,7 @@ Augmented reality assistant designed to help dementia patients recognize faces a
 ---
 
 <!-- Open Source Contributions -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Open Source" width="28" /> &nbsp;Open Source Contributions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Open Source" width="28" /> &nbsp;Open Source Contributions
 
 <div align="center">
 
