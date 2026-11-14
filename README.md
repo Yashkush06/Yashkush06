@@ -151,7 +151,31 @@ Augmented reality assistant designed to help dementia patients recognize faces a
 
 </div>
 
+---
 
+<!-- Open Source Contributions -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Open Source" width="28" /> &nbsp;Open Source Contributions
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🖥️ [TwinDesk](https://github.com/InukaAsith/TwinDesk) &nbsp; [![Contributor #24](https://img.shields.io/badge/Contributor-%2324-1f6feb?style=flat-square&logo=github)](https://github.com/InukaAsith/TwinDesk/graphs/contributors) [![PR #197](https://img.shields.io/badge/PR-%23197%20Merged-238636?style=flat-square&logo=git)](https://github.com/InukaAsith/TwinDesk/pull/197)
+**Cross-platform Workspace & Device Sharing Application**  
+Contributed core Windows platform reliability enhancements and security test suites.
+
+- Engineered regression tests for **Windows Identity DPAPI credential storage & secure migration** ([#197](https://github.com/InukaAsith/TwinDesk/pull/197))
+- Ranked **#24 Contributor** with 199+ additions in Windows subsystems
+
+`C++` `Windows DPAPI` `Cryptography` `Security` `Testing`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
